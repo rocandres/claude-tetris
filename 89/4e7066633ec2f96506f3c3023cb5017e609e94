@@ -1,0 +1,21 @@
+README.md
+  s_26dc5aef144347::t_4152afd5f54a57 38,112,177
+game.js
+  s_26dc5aef144347::t_2a6feba332f3b8 16,28,31-32,54,175-184,217,223,235
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "894e7066633ec2f96506f3c3023cb5017e609e94",
+  "prompts": {},
+  "sessions": {
+    "s_26dc5aef144347": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54e6e148-022a-4f30-8318-98e9ffb31686",
+        "model": "unknown"
+      },
+      "human_author": "Andres Felipe Rodriguez Cabanzo <andresfrc@ext.inditex.com>"
+    }
+  }
+}
