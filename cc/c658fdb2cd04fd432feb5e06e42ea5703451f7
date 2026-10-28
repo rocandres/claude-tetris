@@ -1,0 +1,14 @@
+.github/workflows/claudecode-issue-formatter.yml
+  h_2238f3811cdb20 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ccc658fdb2cd04fd432feb5e06e42ea5703451f7",
+  "prompts": {},
+  "humans": {
+    "h_2238f3811cdb20": {
+      "author": "Andres Felipe Rodriguez Cabanzo <andresfrc@ext.inditex.com>"
+    }
+  }
+}
