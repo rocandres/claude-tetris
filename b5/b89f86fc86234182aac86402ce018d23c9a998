@@ -1,0 +1,19 @@
+CLAUDE.md
+  s_59ecb0e4f05bd9::t_3b246e8e95425c 1-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b5b89f86fc86234182aac86402ce018d23c9a998",
+  "prompts": {},
+  "sessions": {
+    "s_59ecb0e4f05bd9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c0ec939-445a-425a-a00d-db352f304cd9",
+        "model": "unknown"
+      },
+      "human_author": "Andres Felipe Rodriguez Cabanzo <andresfrc@ext.inditex.com>"
+    }
+  }
+}
